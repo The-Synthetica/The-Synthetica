@@ -17,7 +17,7 @@ Currently i usually use HTML, CSS and Javascript, . But even i know Arduino, C, 
 
 &#8192;
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on improve my portfolio and gain some front-end development experencie on the way.
+👩‍💻 I'm currently working on improve my portfolio and gain some front-end development or data sciece experencie on the way.
 
 🧠 I'm mostly learning Javascript and some frameworks like React, python too ♥. Certainly, new projects coming soon! &#8192; Studying a Data Science career at the "Universidad de Buenos Aires" (UBA)
 
