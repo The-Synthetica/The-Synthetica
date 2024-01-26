@@ -5,7 +5,7 @@
 I'm a trainee front end developer and a Data Science studeent. I used to create weird bots with Node.Js. I aspire to be a FullStack developer Soon!
 
 ## 🛠 Skills
-Currently i usually use HTML, CSS and Javascript, . But even i know Arduino, C, C++, and i have some knowledge about Node.Js.
+Currently i usually use HTML, CSS and Javascript & Python. But even i know Arduino, C, C++, and i have some knowledge about Node.Js.
 
 &#8192;
 ## 🔗 Links
